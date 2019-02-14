@@ -1,2 +1,3 @@
 # LedEyes
-animation for LED eyes
+Animation for Matrix of LED eyes
+
